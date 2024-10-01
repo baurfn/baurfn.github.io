@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baurfn.github.io/teP/sitemap.teP.gz
